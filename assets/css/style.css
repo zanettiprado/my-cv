@@ -91,7 +91,7 @@ header {
 
 /*---------------------------------------Logo */
 .logo {
-    background-image: url("../image/perfil.PNG");
+    background-image: url("./assets/image/perfil.PNG");
     opacity: 95%;
     background-position: center;
     background-repeat: no-repeat;
