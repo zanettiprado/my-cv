@@ -1,5 +1,7 @@
 # My Personal Presentation 
 
+You can find a live version [here](https://zanettiprado.github.io/my-cv-/)
+
 ## SUMMARY
 
 Dynamic and trilingual professional with a versatile background in finance, compliance, document control, and customer services, now dedicated to forging a rewarding career in software development. Recent completion of the Software Development course with Code Institute, showcasing proficiency in essential programming languages, frameworks, and technologies sought after in the industry. Recognized for passing all milestone projects with MERIT distinction, demonstrating a keen eye for detail and dedication to excellence.
