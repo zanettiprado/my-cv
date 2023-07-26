@@ -63,7 +63,7 @@
 body {
     font-family: Roboto, sans-serif;
     font-weight: 300;
-    background-color: #525252;
+    background-color: #121b1f;
     color: #555555;
 }
 
@@ -196,7 +196,7 @@ header {
 /*--------------------------------------------Footer*/
 
 footer {
-    background-color: #525252;
+    background-color: #121b1f;
     color: #fafafa;
     min-height: 120px;
     margin: 0;
